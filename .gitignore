@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# additional ignore
+.DS_Store
+config.py
+secrets.py
+.vscode
+.ipynb_checkpoints
